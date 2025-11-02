@@ -19,6 +19,7 @@ ALLOWED_HOSTS = ['*']
 # CORS - allow localhost for now; add frontend URL later
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://muaz-portfolio-ac9xl5xbk-muazs-projects-2fc77458.vercel.app",
 ]
 
 # Application definition
